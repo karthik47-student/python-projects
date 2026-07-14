@@ -1,2 +1,3 @@
 # python-projects
-After i completed learning of python then i created these projects 
+After I completed learning of python then I created these projects .
+The projects are in the codespaces.
